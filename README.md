@@ -2,9 +2,9 @@
 
 ## 開発環境 ( MyPC )
 
-MacOS
-yarn 1.5.1
-node 9.8.0
+MacOS  
+yarn 1.5.1  
+node 9.8.0  
 
 ## webpack4.4.1を使用したスターターキット
 
